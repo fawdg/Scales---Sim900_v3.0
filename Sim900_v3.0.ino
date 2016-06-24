@@ -1,5 +1,3 @@
-
-laksdjfjkl
  
 #include <SoftwareSerial.h>
 #include <EEPROM.h> // build-in IDE libary
