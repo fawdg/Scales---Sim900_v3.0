@@ -371,4 +371,3 @@ void loop()
     GetWeight();
   }
 }
-
